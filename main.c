@@ -1,4 +1,8 @@
-// This is a comment.
+/*
+ * Written by Justin Ko
+ * around 2008 when I was first learning to program
+ * a neat tool: Find all the computers connected to the same network
+*/
 
 #include <stdio.h>
 
